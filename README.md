@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Emerson de Lima Torres, an enthusiast mobile developer.
+ 👋
+ - 🔭 I’m currently working on Native Android and IOS development
+ ###Technologies
+- <img src="https://cdn.svgporn.com/logos/flutter.svg" width="20px"> I’m currently learning Flutter
+- <img src="https://cdn.svgporn.com/logos/kotlin.svg" width="20px"> Kotlin
+- <img src="https://cdn.svgporn.com/logos/java.svg" width="20px"> Java
+- <img src="https://cdn.svgporn.com/logos/swift.svg" width="20px"> Swift
+- <img src="https://cdn.svgporn.com/logos/javascript.svg" width="20px"> Javascript
 
 <!--
 **emersonfiwre/emersonfiwre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
