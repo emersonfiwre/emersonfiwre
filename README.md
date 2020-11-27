@@ -1,5 +1,4 @@
-### Hi there, I'm Emerson de Lima Torres, an enthusiast mobile developer.
- 👋
+### Hi there, I'm Emerson de Lima Torres, an enthusiast mobile developer 👋
  - 🔭 I’m currently working on Native Android and IOS development
  ###Technologies
 - <img src="https://cdn.svgporn.com/logos/flutter.svg" width="20px"> I’m currently learning Flutter
