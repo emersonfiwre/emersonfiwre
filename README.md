@@ -1,5 +1,5 @@
 ### Hi there, I'm Emerson de Lima Torres, an enthusiast mobile developer 👋
- - 2nd year computer science at Uninove 
+ - 3nd year computer science at Uninove 
  
  
  - 🔭 I’m currently working on Native Android and IOS development
