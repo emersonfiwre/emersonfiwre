@@ -9,7 +9,6 @@ Graduate in Computer Science
  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg" width="20px" > Kotlin
  - <img src="https://cdn.svgporn.com/logos/java.svg" width="20px"> Java
  - <img src="https://cdn.svgporn.com/logos/swift.svg" width="20px"> Swift
- - <img src="https://cdn.svgporn.com/logos/flutter.svg" width="20px"> I’m currently learning Flutter
  - <img src="https://cdn.svgporn.com/logos/dotnet.svg" width="20px"> VB.Net
  - <img src="https://cdn.svgporn.com/logos/javascript.svg" width="20px"> Javascript
  - <img src="https://cdn.svgporn.com/logos/mysql.svg" width="20px"> MySQL
